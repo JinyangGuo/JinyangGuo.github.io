@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-  I am a Ph.D. student of [CVLab](https://usyd-cvlab.github.io/) at [School of Electrical and Information Engineering](https://sydney.edu.au/engineering/about/school-of-electrical-and-information-engineering.html), [The University of Sydney](https://sydney.edu.au/), supervised by Prof. [Dong Xu](https://sydney.edu.au/engineering/people/dong.xu.php)
+&dot I am a Ph.D. student of [CVLab](https://usyd-cvlab.github.io/) at [School of Electrical and Information Engineering](https://sydney.edu.au/engineering/about/school-of-electrical-and-information-engineering.html), [The University of Sydney](https://sydney.edu.au/), supervised by Prof. [Dong Xu](https://sydney.edu.au/engineering/people/dong.xu.php)
 
 A data-driven personal website
 ======
