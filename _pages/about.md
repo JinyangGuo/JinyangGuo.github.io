@@ -10,6 +10,10 @@ redirect_from:
 
 * I am a Ph.D. student of [CVLab](https://usyd-cvlab.github.io/) at [School of Electrical and Information Engineering](https://sydney.edu.au/engineering/about/school-of-electrical-and-information-engineering.html), [The University of Sydney](https://sydney.edu.au/), supervised by Prof. [Dong Xu](https://sydney.edu.au/engineering/people/dong.xu.php)
 
+* My research interests lie in deep learning and computer vision. Specifically I focus on CNN model compression and acceleration.
+
+* I received my B.Eng Degree (Hons) from [School of Electrical and Telecommunication](https://www.engineering.unsw.edu.au/electrical-engineering/), [The University of New South Wales](https://www.unsw.edu.au/). My undergraduate research supervisor is Prof. [John Fletcher](https://www.engineering.unsw.edu.au/electrical-engineering/professor-john-fletcher)
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
