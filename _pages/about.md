@@ -13,4 +13,7 @@ I am a Ph.D. student of [CVLab](https://usyd-cvlab.github.io/) at [School of Ele
 Recent News
 ======
 
-
+Contact
+======
+School of Electrical and Information Engineering, the University of Sydney
+Email: jinyang.guo@sydney.edu.au
