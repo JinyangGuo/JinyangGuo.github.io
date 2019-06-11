@@ -3,8 +3,8 @@ main:
   - title: "Home"
     url: /
 
-  - title: "CV"
-    url: /cv/  
+  # - title: "CV"
+  #   url: /cv/  
     
   - title: "Publications"
     url: /publications/    
@@ -18,5 +18,5 @@ main:
   - title: "Blogs"
     url: /year-archive/
     
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
