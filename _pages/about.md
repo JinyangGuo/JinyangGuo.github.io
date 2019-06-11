@@ -17,5 +17,5 @@ Recent News
 
 Contact
 ======
-School of Electrical and Information Engineering, the University of Sydney.
 Email: jinyang.guo@sydney.edu.au
+Personal Email: jy.guo@hotmail.com
