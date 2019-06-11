@@ -17,5 +17,4 @@ Recent News
 
 Contact
 ======
-Email: jinyang.guo@sydney.edu.au;
-Personal Email: jy.guo@hotmail.com
+Email: jinyang.guo@sydney.edu.au; jy.guo@hotmail.com
