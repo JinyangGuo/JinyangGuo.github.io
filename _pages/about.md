@@ -13,4 +13,4 @@ I am a Ph.D. student of [CVLab](https://usyd-cvlab.github.io/) at [School of Ele
 
 Recent News
 ======
-
+<b>Channel Pruning Guided by Classification Loss and Feature Importance</b> is accepted by AAAI’2020. We prune channels by using the guidance from both the classification loss and feature importance.
