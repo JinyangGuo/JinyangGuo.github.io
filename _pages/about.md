@@ -14,5 +14,4 @@ I am a Ph.D. student of [CVLab](https://usyd-cvlab.github.io/) at [School of Ele
 Recent News
 ======
 * Mar 2020: <b>Multi-Dimensional Pruning: A Unified Framework for Model Compression</b> is accepted by CVPR’2020 as oral presentation. We simultaneously reduce the redundancies in CNNs along multiple dimensions.
-* Nov 2019: <b>Channel Pruning Guided by Classification Loss and Feature Importance</b> is accepted by AAAI’2020. We prune channels by using the guidance from both the classification loss and feature importance.
 * Nov 2019: <strong>Channel Pruning Guided by Classification Loss and Feature Importance</strong> is accepted by AAAI’2020. We prune channels by using the guidance from both the classification loss and feature importance. [[paper](https://arxiv.org/abs/2003.06757)]
