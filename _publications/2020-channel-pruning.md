@@ -1,7 +1,7 @@
 ---
 title: "Channel Pruning Guided by Classification Loss and Feature Importance"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2020-channel-pruning
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020
 venue: 'Proceedings of the 34th AAAI Conference on Artificial Intelligence'
