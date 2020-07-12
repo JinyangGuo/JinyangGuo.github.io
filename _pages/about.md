@@ -13,5 +13,6 @@ I am a Ph.D. student of [CVLab](https://usyd-cvlab.github.io/) at [School of Ele
 
 Recent News
 ======
-* Mar 2020: <b>Multi-Dimensional Pruning: A Unified Framework for Model Compression</b> is accepted by CVPR’2020 as oral presentation. We simultaneously reduce the redundancies in CNNs along multiple dimensions.
+* May 2020: <b>Model Compression using Progressive Channel Pruning</b> is accepted by IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT). We automatically decide the remained number of channels at each layer by iteratively pruning the model.
+* Mar 2020: <b>Multi-Dimensional Pruning: A Unified Framework for Model Compression</b> is accepted by CVPR’2020 as oral presentation. We simultaneously reduce the redundancies in CNNs along multiple dimensions. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Multi-Dimensional_Pruning_A_Unified_Framework_for_Model_Compression_CVPR_2020_paper.pdf)]
 * Nov 2019: <strong>Channel Pruning Guided by Classification Loss and Feature Importance</strong> is accepted by AAAI’2020. We prune channels by using the guidance from both the classification loss and feature importance. [[paper](https://arxiv.org/abs/2003.06757)]
